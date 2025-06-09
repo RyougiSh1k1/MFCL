@@ -1,1 +1,0 @@
-python main.py --dataset=tiny_imagenet --method=MFCL --num_clients=50 --path=data

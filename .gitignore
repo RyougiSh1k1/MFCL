@@ -4,6 +4,7 @@ wandb/*
 data/
 _dataset/
 *.pt
+*.png
 outputs/
 logs/
 *.log
